@@ -6,6 +6,10 @@ What's the World Watching Right Now presents you with the current most popular m
 
 The project is supposed to be interactive and you are encouraged to play around with the circles. The circles can also be dragged. Have fun!
 
+![alt text](https://github.com/kg1642/WhatIsTheWorldWatchingRightNow/blob/master/public/images/Screen%20Shot%202018-10-07%20at%2011.37.40%20PM.png "WebApp at a Glance")
+![alt text](https://github.com/kg1642/WhatIsTheWorldWatchingRightNow/blob/master/public/images/Screen%20Shot%202018-10-07%20at%2011.38.00%20PM.png "Hovering on a circle")
+![alt text](https://github.com/kg1642/WhatIsTheWorldWatchingRightNow/blob/master/public/images/Screen%20Shot%202018-10-07%20at%2011.38.28%20PM.png "Clicking a circle")
+
 
 ## Motivation and Process
 The first time I saw a bubble graph I was amazed by how great it is for data representation. Therefore, I wanted to use the bubbles in some form to represent some data. I love movies and try to find time to watch most of the latest popular movies. So, I decided to use bubbles to represent movies. A little bit reseach and I found the MovieDB database. I decided to use the circle size to represent the popularity of the movie. However, the users want to know more about the movie then just the name. So, adding the description and the reviews were the normal next steps. 
