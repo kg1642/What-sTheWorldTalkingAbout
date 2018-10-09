@@ -41,8 +41,9 @@ function getPopularMovies(){
                 }
                 else {
                     for (j = 0; j < result.results.length; j++) {
-                        review_url = getReviews(result.results[j].title);
-                        result.results[j]['review_url'] = review_url
+                        review_url = null;
+                        //review_url = getReviews(result.results[j].title);
+                        //result.results[j]['review_url'] = review_url
                         if (review_url !=null){
                             result.results[j].overview = result.results[j].overview +"<br><b>Read NYT Review</b><br><a href = '"+review_url+"' target = '_blank'><img src ='images/NYTLogo.jpg' class = 'nyt-image'></a>";
                          }
@@ -137,6 +138,11 @@ $(document).ready(function (){
     //creating a svg and initializing variables
     let svg = d3.select('svg');
     let width = document.body.clientWidth; // get width in pixels
+    winHeight = window.innerHeight * 0.85;
+    console.log(winHeight)
+    //svg.setAttribute("height", winHeight);
+    svg.attr('height', winHeight);
+    //document.getElementsByTagName('svg').setAttribute.height  = winHeight;
     let height = +svg.attr('height');
     let centerX = width * 0.5;
     let centerY = height * 0.5;

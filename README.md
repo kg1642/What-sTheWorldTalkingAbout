@@ -2,9 +2,9 @@
 
 ## About
 
-What's the World Watching Right Now presents you with the current most popular movies of the world with corresponding reviews by New York Times. Two Web Apis were used for this project. Information about movies was collected from [MovieDB](https://developers.themoviedb.org/3) api while reviews were collected from [New York Times Api](https://developer.nytimes.com/movie_reviews_v2.json). The movies are represented by circles. The size of the circle represents the popularity of the movie. The bigger the size of the circle the more popular the movie is. If you hover on the circle it expands and displays the name of the movie. If you click on it, it expands further and shows you a short description of the movie with a link to its review in New York Times. 
+[What's the World Watching Right Now](https://kg1642.github.io) presents you with the current most popular movies of the world with corresponding reviews by New York Times. Two Web Apis were used for this project. Information about movies was collected from [MovieDB](https://developers.themoviedb.org/3) api while reviews were collected from [New York Times Api](https://developer.nytimes.com/movie_reviews_v2.json). The movies are represented by circles. The size of the circle represents the popularity of the movie. The bigger the size of the circle the more popular the movie is. If you hover on the circle it expands and displays the name of the movie. If you click on it, it expands further and shows you a short description of the movie with a link to its review in New York Times. 
 
-The project is supposed to be interactive and you are encouraged to play around with the circles. The circles can also be dragged. Have fun!
+The project is supposed to be interactive and you are encouraged to play around with the circles. The circles can also be dragged. [Have fun!](https://kg1642.github.io)
 
 ![alt text](https://github.com/kg1642/WhatIsTheWorldWatchingRightNow/blob/master/public/images/Screen%20Shot%202018-10-07%20at%2011.37.40%20PM.png "WebApp at a Glance")
 ![alt text](https://github.com/kg1642/WhatIsTheWorldWatchingRightNow/blob/master/public/images/Screen%20Shot%202018-10-07%20at%2011.38.00%20PM.png "Hovering on a circle")
