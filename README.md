@@ -23,7 +23,7 @@ As mentioned earlier I am fascinated by bubbles. So, I always wanted to use bubb
 
 1. [MovieDB Api](https://developers.themoviedb.org/3)
 2. [New York Times Api](https://developer.nytimes.com/movie_reviews_v2.json)
-3. [Nau Technologies] (https://naustud.io/tech-stack/) - The graph presented in this website provided me guidance. 
+3. [Nau Technologies](https://naustud.io/tech-stack/) - The graph presented in this website provided me guidance. 
 4. D3 
 
 ## Major Chanllenges
@@ -31,4 +31,4 @@ Most of the challenges I faced were learning the nuances of javascript and learn
 
 ## Next Steps:
 
-The next steps for this project would be to include option for the user to choose a region and genre of the movie. This would give users options to get information about they care about. Also, the website is not well optimized for smaller screens. Making it well optimized it for all screen sizes is necessary before putting it online. 
+The next steps for this project would be to include option for the user to choose a region and genre of the movie. This would give users options to get information about movies that they care about. Also, the website is not well optimized for smaller screens. Making it well optimized for all screen sizes is necessary before putting it online. 
